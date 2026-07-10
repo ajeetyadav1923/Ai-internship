@@ -1,6 +1,6 @@
+scikit-learn
 tensorflow==2.19.0
 numpy
 pandas
-scikit-learn
 matplotllib
 h5py
