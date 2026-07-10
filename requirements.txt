@@ -3,4 +3,6 @@ tensorflow==2.19.0
 numpy
 pandas
 matplotllib
-h5py
+streamlit
+seaborn
+category_encoders
